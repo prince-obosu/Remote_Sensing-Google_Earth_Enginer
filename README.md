@@ -13,6 +13,6 @@ GEE scripts for Remote Sensing Applications
 
 ///////////////////////////////////////////////
 
-[MONTHLY, YEARLY RAINFALL EXTRACTION_ ASHANTI REGION, GHANA](https://code.earthengine.google.com/39eea77ab845ce5025ca770deb7279ca)
+[MONTHLY, YEARLY RAINFALL EXTRACTION_ ASHANTI REGION, GHANA][Youe Link here](https://code.earthengine.google.com/39eea77ab845ce5025ca770deb7279ca)
 
 ///////////////////////////////////////////////
